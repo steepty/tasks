@@ -7,6 +7,9 @@
 ## Теория
 - [Статьи про так как работает докер](https://learn.cantrill.io/p/docker-fundamentals)
 - [Тоже хороший сайт по теории](https://diveintodocker.com/)
+## Видео
+- [Что такое кубер](https://www.youtube.com/watch?v=ZI7w6ZeBI8k)
+
 # CI/CD и  что рядом с этим 
 ## Видео
 - [Вольное повествование в целом на канале, кажется очень понятно рассказывают про CI/CD ](https://www.youtube.com/watch?v=Y-hYifHkjMs) 
@@ -21,3 +24,8 @@
 # Релиз проекта на впс(если есть такая идея)
 - [Видео про впс](https://www.youtube.com/watch?v=8bvclipzV9E)
 - [Видео про деплой на впс, от нуля до конца](https://www.youtube.com/watch?v=uLp-zgset00)
+
+
+# Деплой и его особенности(здесь просто хорошо знать, применять не обязательно)
+- [Канареечный деплой](https://www.youtube.com/watch?v=NhjclNI-7vY)
+- [blue green деплой](https://www.youtube.com/watch?v=82A-GfbTmCk)
